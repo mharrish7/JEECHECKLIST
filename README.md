@@ -1,6 +1,6 @@
 # JEECHECKLIST
     Its a simple app to track jee prep progress
-# Made by using
+# Build with
     Kivy,KivyMD,a-kivymd,Buildozer,python,mysql.
     
 # Features
